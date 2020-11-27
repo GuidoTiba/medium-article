@@ -1,0 +1,65 @@
+.banner {
+  background-image: linear-gradient(rgba(12, 12, 12, 0.548), rgba(0, 0, 0, 0)),url('maradona.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  text-align: center;
+}
+.banner h1 {
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-family: 'Work Sans';
+  position: relative;
+  top: 170px;
+}
+.banner p {
+  color: white;
+  font-size: 35px;
+  font-family: 'Work Sans';
+  position: relative;
+  top: 170px;
+}
+h2, h3 {
+  color: #404042;
+  font-family: 'Work Sans';
+}
+.container p {
+  color: #404042;
+  font-size: 22px;
+}
+
+.container h2 {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.container {
+  width: 40%;
+  margin: 50px auto;
+}
+.link {
+    background-color: rgb(123, 224, 255);
+    color: rgb(0, 0, 0);
+    padding: 16px 48px;
+    border-radius: 4px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    transition: .3s;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 55px auto;
+    width: 30%;
+  }
+.link:hover {
+  background-color: rgb(123, 224, 255);
+  color: white;
+}
+
+img {
+  width: 100%;
+}
+p.derecha {
+  text-align: center;
+  margin-top: 50px;
+}
